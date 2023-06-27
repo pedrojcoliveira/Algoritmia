@@ -1,0 +1,4 @@
+﻿  Tenis.c
+C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\ExercicioTenis\ExercicioTenis\Tenis.c(61,7): warning C4101: 'file_name': unreferenced local variable
+C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\ExercicioTenis\ExercicioTenis\Tenis.c(343,11): warning C4129: 'O': unrecognized character escape sequence
+  ExercicioTenis.vcxproj -> C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\ExercicioTenis\x64\Debug\ExercicioTenis.exe

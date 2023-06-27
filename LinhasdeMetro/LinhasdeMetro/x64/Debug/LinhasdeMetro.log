@@ -1,0 +1,6 @@
+﻿  Metro.c
+C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\LinhasdeMetro\LinhasdeMetro\Metro.c(152,34): warning C4028: formal parameter 2 different from declaration
+C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\LinhasdeMetro\LinhasdeMetro\Metro.c(200,53): warning C4029: declared formal parameter list different from definition
+C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\LinhasdeMetro\LinhasdeMetro\Metro.c(255,11): warning C4101: 'nova': unreferenced local variable
+C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\LinhasdeMetro\LinhasdeMetro\Metro.c(219): warning C4715: 'DeleteStation': not all control paths return a value
+  LinhasdeMetro.vcxproj -> C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\LinhasdeMetro\x64\Debug\LinhasdeMetro.exe

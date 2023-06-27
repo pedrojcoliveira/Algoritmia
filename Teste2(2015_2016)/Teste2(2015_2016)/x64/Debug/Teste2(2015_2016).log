@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\Teste2(2015_2016)\Teste2(2015_2016)\Source.c(75,25): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\Teste2(2015_2016)\Teste2(2015_2016)\Source.c(75,48): warning C4312: 'type cast': conversion from 'int' to 'BT_NODE *' of greater size
+  Teste2(2015_2016).vcxproj -> C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\Teste2(2015_2016)\x64\Debug\Teste2(2015_2016).exe

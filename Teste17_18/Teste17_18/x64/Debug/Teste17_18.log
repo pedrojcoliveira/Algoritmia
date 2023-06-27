@@ -1,0 +1,4 @@
+﻿  Teste17_18.c
+C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\Teste17_18\Teste17_18\Teste17_18.c(64): warning C4716: 'NewNode': must return a value
+Teste17_18.obj : error LNK2019: unresolved external symbol InsertIni referenced in function main
+C:\Users\pedro\Desktop\UTAD\3º Ano\2ºSemestre\Algoritmia\Teste17_18\x64\Debug\Teste17_18.exe : fatal error LNK1120: 1 unresolved externals
